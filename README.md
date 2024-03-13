@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **apilthapa87@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1h5Z31KzFB9trRDz35k4odesQbVO71AWn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

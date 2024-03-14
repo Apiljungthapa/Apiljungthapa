@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/apilthapa15" target="blank"><img src="https://img.shields.io/twitter/follow/apilthapa15?logo=twitter&style=for-the-badge" alt="apilthapa15" /></a> </p>
 
-- 🔭 I’m currently working on [NLP/Generative AI](https://github.com/Apil12/NLP_GENAI)
+- 🔭 I’m currently working on [NLP/Generative AI](https://github.com/Apiljungthapa/NLP_GENAI)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Apil12](https://github.com/Apil12)
+- 👨‍💻 All of my projects are available at [https://github.com/Apil12](https://github.com/Apiljungthapa)
 
 - 📫 How to reach me **apilthapa87@gmail.com**
 

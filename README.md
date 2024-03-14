@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [NLP/Generative AI](https://github.com/Apiljungthapa/NLP_GENAI)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Apil12](https://github.com/Apiljungthapa)
+- 👨‍💻 All of my projects are available at [https://github.com/Apiljungthapa](https://github.com/Apiljungthapa)
 
 - 📫 How to reach me **apilthapa87@gmail.com**
 

@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNodmZ3cWx6bmRxb3ZzYWloZmFmdHNsN2JjOXE2eDNnNno0cDZrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTsNgkamxfk2ZLq/giphy.gif" alt="Robots" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apil12&label=Profile%20views&color=0e75b6&style=flat" alt="apil12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apil12&label=Profile%20views&color=0e75b6&style=flat" alt="apiljungthapa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/apilthapa15" target="blankss"><img src="https://img.shields.io/twitter/follow/apilthapa15?logo=twitter&style=for-the-badge" alt="apilthapa15" /></a> </p>
 

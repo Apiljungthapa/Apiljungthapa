@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apil jung Thapa</h1>
-<h3 align="center">Passionate AI enthusiasts with Knowledge in ML, Deep Learning, Computer Vision, NLP, LLMs, Langchain, Hugging Face fine-tuning,Understanding core conceps with mathmatical initution and more 🤖💡 | Passionate about exploring the frontiers of AI technology and its applications</h3>
+<h3 align="center">Passionate AI enthusiast with Knowledge in ML, Deep Learning, Computer Vision, NLP, LLMs, Langchain, Hugging Face fine-tuning,Understanding core conceps with mathmatical initution and more 🤖💡 | Passionate about exploring the frontiers of AI technology and its applications</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNodmZ3cWx6bmRxb3ZzYWloZmFmdHNsN2JjOXE2eDNnNno0cDZrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTsNgkamxfk2ZLq/giphy.gif" alt="Robots" />

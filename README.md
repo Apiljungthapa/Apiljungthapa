@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Apil  Jung Thapa</h1>
+<h1 align="center">Hi 👋, I'm Apil Thapa</h1>
 <h3 align="center">Passionate AI enthusiast with Knowledge in ML, Deep Learning, Computer Vision, NLP, LLMs, Langchain, Hugging Face fine-tuning,Understanding core conceps with mathmatical initution and more 🤖💡 | Passionate about exploring the frontiers of AI technology and its applications</h3>
 
 <p align="center">

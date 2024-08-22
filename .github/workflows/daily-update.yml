@@ -15,8 +15,8 @@ jobs:
     - name: Update README
       run: |
         echo Last updated: %DATE% > README.md
-        git config --global user.email "your-email@example.com"
-        git config --global user.name "Your Name"
+        git config --global user.email "apilthapa87@example.com"
+        git config --global user.name "Apiljungthapa"
         git add README.md
         git commit -m "Daily update" || echo "No changes to commit"
         git push || echo "Failed to push changes"

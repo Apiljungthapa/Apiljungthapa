@@ -1,13 +1,13 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 6 * * 1"}]
-  workflow_dispatch:
-  push:
+  schedule: [{cron: "0 6 * * 1"}]  # Runs every Monday at 6:00 am UTC
+  workflow_dispatch:  # Allows manual triggering
+  push:  # Triggers on push
 
 jobs:
   github-metrics:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest  # Changed from windows-latest
     environment: 
       name: APIL_JUNG_THAPA
     permissions:
@@ -17,8 +17,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: assets/general.svg
-          token: ${{ secrets.APIL_JUNG_THAPA }}
-          user: Apiljungthapa
+          token: ${{ secrets.APIL_JUNG_THAPA }}  # Your secret
+          user: Apiljungthapa  # Your GitHub username
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kathmandu

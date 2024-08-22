@@ -10,8 +10,11 @@ on:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
       - name: Generate GitHub Snake SVG
         uses: Platane/snk@v3
         with:
@@ -19,3 +22,11 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output # This branch will hold the generated SVG
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

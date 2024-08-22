@@ -19,4 +19,4 @@ jobs:
         git config --global user.name "Apiljungthapa"
         git add README.md
         git commit -m "Daily update" || echo "No changes to commit"
-        git push || echo "Failed to push changes"
+        git push || echo "Failed to push chnges"

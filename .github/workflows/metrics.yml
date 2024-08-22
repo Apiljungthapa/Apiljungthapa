@@ -1,0 +1,24 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 6 * * 1"}]
+  workflow_dispatch:
+  push:
+
+jobs:
+  github-metrics:
+    runs-on: windows-latest
+    environment: 
+      name: Apil_Jung_Thapa
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/general.svg
+          token: ${{ secrets.Apil_Jung_Thapa }}
+          user: Apiljungthapa
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kathmandu

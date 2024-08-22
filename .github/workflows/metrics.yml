@@ -9,7 +9,7 @@ jobs:
   github-metrics:
     runs-on: windows-latest
     environment: 
-      name: Apil_Jung_Thapa
+      name: APIL_JUNG_THAPA
     permissions:
       contents: write
     steps:
@@ -17,7 +17,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: assets/general.svg
-          token: ${{ secrets.Apil_Jung_Thapa }}
+          token: ${{ secrets.APIL_JUNG_THAPA }}
           user: Apiljungthapa
           template: classic
           base: header, activity, community, repositories, metadata

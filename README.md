@@ -20,6 +20,8 @@
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Apiljungthapa/Apiljungthapa/output/dist/github-contribution-grid-snake.svg)
 
+Enjoy the visualization of my contributions!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/apilthapa15" target="blanks"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apilthapa15" height="30" width="40" /></a>

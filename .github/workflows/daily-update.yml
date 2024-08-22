@@ -6,7 +6,7 @@ on:
 
 jobs:
   update-readme:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest  # Use Windows runner
 
     steps:
     - name: Checkout Repository
@@ -14,10 +14,9 @@ jobs:
 
     - name: Update README
       run: |
-        echo "Last updated: $(date)" > README.md
+        echo Last updated: %DATE% > README.md
         git config --global user.email "your-email@example.com"
         git config --global user.name "Your Name"
         git add README.md
-        git commit -m "Daily update"
-        git push || echo "No changes to commit"
-
+        git commit -m "Daily update" || echo "No changes to commit"
+        git push || echo "Failed to push changes"

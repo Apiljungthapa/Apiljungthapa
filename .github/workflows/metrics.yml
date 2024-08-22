@@ -18,7 +18,7 @@ jobs:
         with:
           filename: assets/general.svg
           token: ${{ secrets.APIL_JUNG_THAPA }}  # Your secret
-          user: Apiljungthapa  # Your GitHub username
+          user: Apiljungthapa
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kathmandu

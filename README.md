@@ -18,9 +18,12 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1HH9AsBR6fcvY8dkvDdrNh8cilnCXDDTv/view?usp=sharing)
 - 📄 Read my medium here ! [Apil medium.com](https://medium.com/@apilthapa87)
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Apiljungthapa/Apiljungthapa/main/dist/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Apiljungthapa/Apiljungthapa/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Apiljungthapa/Apiljungthapa/main/dist/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Apiljungthapa/Apiljungthapa/main/dist/github-snake.svg" />
+</picture>
 
-Enjoy the visualization of my contributions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

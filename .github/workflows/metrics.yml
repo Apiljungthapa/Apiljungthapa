@@ -7,7 +7,7 @@ on:
 
 jobs:
   github-metrics:
-    runs-on: windows-latest  # Changed from windows-latest
+    runs-on: ubuntu-latest  # Changed from windows-latest
     environment: 
       name: APIL_JUNG_THAPA
     permissions:

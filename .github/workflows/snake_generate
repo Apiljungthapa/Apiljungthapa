@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # Allows manual triggering
   push:
     branches:
-      - main # Runs on pushes to the main branch
+      - main # Runs 
 
 jobs:
   generate:

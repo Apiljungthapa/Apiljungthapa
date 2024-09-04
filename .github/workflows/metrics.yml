@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule: [{cron: "0 6 * * 1"}]  # Runs every Monday at 6:00 am UTC
-  workflow_dispatch:  # Allows manual triggering
+  workflow_dispatch:  # Allows  triggering
   push:  
 
 jobs:

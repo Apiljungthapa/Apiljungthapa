@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **apilthapa87@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1HH9AsBR6fcvY8dkvDdrNh8cilnCXDDTv/view?usp=sharing)
 - 📄 Read my medium here ! [Apil medium.com](https://medium.com/@apilthapa87)
 
 <picture>

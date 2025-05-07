@@ -7,15 +7,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apil12&label=Profile%20views&color=0e75b6&style=flat" alt="apiljungthapa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/apilthapa15" target="blankss"><img src="https://img.shields.io/twitter/follow/apilthapa15?logo=twitter&style=for-the-badge" alt="apilthapa15" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/apilthapa15" target="blankss">
+    <img src="https://img.shields.io/twitter/follow/apilthapa15?logo=twitter&style=for-the-badge" alt="apilthapa15" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on [NLP/Generative AI](https://github.com/Apiljungthapa/NLP_GENAI)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Apiljungthapa](https://github.com/Apiljungthapa)
 
-- 📫 How to reach me **apilthapa87@gmail.com**
+- 🌐 My portfolio website: [https://www.thapa-apil.com.np](https://www.thapa-apil.com.np)
 
-- 📄 Read my medium here ! [Apil medium.com](https://medium.com/@apilthapa87)
+- 📫 How to reach me: **apilthapa87@gmail.com**
+
+- 📄 Read my Medium articles: [Apil on Medium](https://medium.com/@apilthapa87)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Apiljungthapa/Apiljungthapa/output/github-contribution-grid-snake.svg?palette=github-dark" />
